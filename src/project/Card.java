@@ -11,6 +11,9 @@ package project;
  * should remember to add themselves as a modifier.
  * @author megha, 2019
  * @modifier paivajo, 2019
+ * @modifier AngelaVilladiego, 2019
+ * @modifier sheikhash, 2019
+ * @modifier Ahmadbustani, 2019
  */
 public abstract class Card 
 {
