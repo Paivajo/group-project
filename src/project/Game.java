@@ -12,6 +12,9 @@ import java.util.ArrayList;
  * child of this class and instantiate the methods given.
  * @author megha,2019
  * @modifier paivajo, 2019
+ * @modifier AngelaVilladiego, 2019
+ * @modifier sheikhash, 2019
+ * @modifier Ahmadbustani, 2019
  */
 public abstract class Game 
 {
