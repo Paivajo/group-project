@@ -14,7 +14,6 @@ package project;
  * @modifier AngelaVilladiego, 2019
  * @modifier sheikhash, 2019
  * @modifier Ahmadbustani, 2019
- * test push
  */
 public abstract class Card 
 {
